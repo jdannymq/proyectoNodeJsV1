@@ -1,0 +1,21 @@
+{
+  "name": "proyectonodejsv1",
+  "version": "1.0.0",
+  "description": "un curso de node",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "curso",
+    "español"
+  ],
+  "author": "jdmq",
+  "license": "ISC"
+}
